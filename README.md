@@ -22,5 +22,5 @@ chmod +x ./ssdtPRGen.sh
 cp ~/Library/ssdtPRGen/ssdt.aml /Volumes/EFI/EFI/Clover/ACPI/patched/SSDT.aml
 
 ## FakeSMC sensor map:
-SMM -> Fan
+SMM -> Fan 
 ACPI -> ambient 
